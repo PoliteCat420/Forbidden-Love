@@ -1,5 +1,8 @@
-# Forbidden Love
-Project Description: 
+# Documentation (Forbidden Love)
+
+CommLab Assignment-2 (Comic Project)
+
+## Project Description
 The project depicts the harsh reality of colourism and casteism within South Asian culture.
 (Caste encompasses a complex ordering of social groups on the basis of ritual purity. A person is considered a member of the caste into which he or she is born and remains within that caste until death, although the particular ranking of that caste may vary among regions and over time. Differences in status are traditionally justified by the religious doctrine of karma, a belief that one's place in life is determined by one's deeds in previous lifetimes.)
 
